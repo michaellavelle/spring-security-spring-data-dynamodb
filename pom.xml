@@ -8,7 +8,7 @@
 	<name>DynamoDB implementations of Spring Security components</name>
 	<properties>
 		<spring.security.spring.data.version>1.0.0-SNAPSHOT</spring.security.spring.data.version>
-		<spring.data.dynamodb.version>1.0.0-SNAPSHOT</spring.data.dynamodb.version>
+		<spring.data.dynamodb.version>1.0.1-SNAPSHOT</spring.data.dynamodb.version>
 	</properties>
 	<distributionManagement>
 		<repository>
